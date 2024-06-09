@@ -13,4 +13,4 @@ pf.close()
 merger.write("allMerged.pdf")  # Finally it will generate a merged PDF of all the PDF used 
 
 #Requirement of this Merging PDF is needed in many project like some client want Merged PDF of two files. at that time it is necessary to give them 
-#meged PDF of two PDF content.
+#meged PDF of two other different PDF content into single pdf.
